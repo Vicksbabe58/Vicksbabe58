@@ -7,10 +7,10 @@ I am Victory
 <p align:"center">
 <img width:30% src="https://github-readme-stats.vercel.app/api?username=Vicksbabe58&show_icons=true&theme=radical"   />
 <img width:30% src="http://github-readme-streak-stats.herokuapp.com?user=Vicksbabe58&theme=radical&https://git.io/streak-stats"/>
+</p>
+<p align:"center">
 <img width :20% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicksbabe58&layout=compact&https://github.com/vicksbabe58/github-readme-stats"  />
 </p>
-</p>
-
 
 
 
