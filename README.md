@@ -3,6 +3,17 @@
 I am Victory
 ```
 
+<p align:"center">
+
+<img width :48px src="https://github-readme-stats.vercel.app/api?username=Vicksbabe58&show_icons=true&theme=radical"   />
+
+<img width :40px src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicksbabe58&layout=compact&https://github.com/vicksbabe58/github-readme-stats"  />
+
+
+</p>
+
+
+
 <!--
 **Vicksbabe58/Vicksbabe58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
