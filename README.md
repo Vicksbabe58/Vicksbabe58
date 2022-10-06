@@ -2,7 +2,7 @@
 
 
 <p>
-<img width="25%" src="https://user-images.githubusercontent.com/84425318/190880587-c5aea438-efab-4213-b56f-5961a6a723ee.gif" alt="developer"/>
+<img width="50%" src="https://user-images.githubusercontent.com/109212219/194411143-e940176f-ac7e-49be-88be-405842fbbfc9.gif" alt="girl-coding"/>
 </p>
 
 
