@@ -2,11 +2,11 @@
 
 
 
-<p align:"center">
+<p align="center">
 <img width:"40%" src="https://github-readme-stats.vercel.app/api?username=Vicksbabe58&show_icons=true&theme=radical"   />
 <img width:"40%" src="http://github-readme-streak-stats.herokuapp.com?user=Vicksbabe58&theme=radical"/>
 </p>
-<p align:"center">
+<p align="center">
 <img width:"30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicksbabe58&layout=compact&https://github.com/vicksbabe58/github-readme-stats"  />
 </p>
 
