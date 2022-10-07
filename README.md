@@ -2,14 +2,14 @@
 
 
 <p>
-<img width="50%" src="https://user-images.githubusercontent.com/109212219/194411143-e940176f-ac7e-49be-88be-405842fbbfc9.gif" alt="girl-coding"/>
+<img width="70%" src="https://user-images.githubusercontent.com/109212219/194411143-e940176f-ac7e-49be-88be-405842fbbfc9.gif" alt="girl-coding"/>
 </p>
 
 
 
 
 <p align="center">
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicksbabe58&layout=compact&https://github.com/vicksbabe58/github-readme-stats"  />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicksbabe58&layout=compact&https://github.com/vicksbabe58/github-readme-stats"  />
 </p>
 
 
