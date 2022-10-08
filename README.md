@@ -5,6 +5,14 @@
 <img width="70%" src="https://user-images.githubusercontent.com/109212219/194411143-e940176f-ac7e-49be-88be-405842fbbfc9.gif" alt="girl-coding"/>
 </p>
 
+## Front-End Web Developer
+- 😄 <b> Pronouns: </b> She/Her  👩🏻‍🦱👩🏻‍💻
+* 🌍  I'm based in Lagos, Nigeria
+* 🖥️  See my portfolio <a href="https://vicksbabe58.netlify.app">Netlify</a>
+* ✉️You can contact me on<a href="https://www.linkedin.com/in/victory-ilikah-a18253248"> LinkedIn </a> <a href="http://twitter.com/vicksbabe588">Twitter</a>
+* 🧠  I'm learning JavaScript and Nodejs  
+* 🤝  I'm open to collaborating on Interesting Projects.
+* ⚡  I love working with people to build amazing stuffs
 
 
 ## ⚒ My Tech Stack
@@ -14,6 +22,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 ## *Stats*
