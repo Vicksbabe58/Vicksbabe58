@@ -8,7 +8,7 @@
 ## Front-End Web Developer
 - 😄 <b> Pronouns: </b> She/Her  👩🏻‍🦱👩🏻‍💻
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio [![portfolio](https://img.shields.io/badge/netlify-ff69b4?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vicksbabe58.netlify.app/)
+* 🖥️  See my portfolio [![portfolio](https://img.shields.io/badge/netlify-ff69b4?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.netlify.com/teams/vicksbabe58)
 
 * ✉️You can contact me on  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victory-ilikah-a18253248/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/vicksbabe588/)
