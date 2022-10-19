@@ -1,11 +1,13 @@
-## *Hi there* 👋
+## *Hi there* 👋  <img src="https://komarev.com/ghpvc/?username=vicksbabe58&style=flat-square&color=ff69b4" />
+
+
 
 
 <p>
 <img width="70%" src="https://user-images.githubusercontent.com/109212219/194411143-e940176f-ac7e-49be-88be-405842fbbfc9.gif" alt="girl-coding"/>
 </p>
 
-## Front-End Web Developer
+## Front-End Web Developer 
 - 😄 <b> Pronouns: </b> She/Her  👩🏻‍🦱👩🏻‍💻
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio [![portfolio](https://img.shields.io/badge/netlify-ff69b4?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.netlify.com/teams/vicksbabe58)
