@@ -39,8 +39,8 @@
   
   
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=Vicksbabe58&show_icons=true&theme=radical"   />
-<img width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=Vicksbabe58&theme=radical"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Vicksbabe58&show_icons=true&theme=radical"   />
+<img width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=Vicksbabe58&theme=radical"/>
 </p>
 
 
